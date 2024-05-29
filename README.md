@@ -1,1 +1,2 @@
-<h1> Hey, I am Yong Hann 👋
+<h1> Hey, I am Yong Hann 👋 </h1>
+Hi there! I'm a final-year Computer Science with AI student at the University of Leeds, set to graduate in July 2024. My primary passion lies in the field of Artificial Intelligence 🤖, where I've developed several exciting projects. Additionally, I have a strong interest in web development 🌐 and have created a variety of projects in this area. I'm excited to share my work and collaborate on innovative projects! 🚀✨
